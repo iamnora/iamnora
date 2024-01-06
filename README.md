@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iamnora&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamnora&theme=dark-smoky)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
